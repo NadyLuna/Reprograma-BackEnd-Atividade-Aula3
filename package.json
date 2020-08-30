@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NadyLuna/Reprograma-BackEnd-Atividade-Aula3/issues"
   },
-  "homepage": "https://github.com/NadyLuna/Reprograma-BackEnd-Atividade-Aula3#readme"
+  "homepage": "https://github.com/NadyLuna/Reprograma-BackEnd-Atividade-Aula3#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }

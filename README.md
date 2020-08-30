@@ -11,3 +11,6 @@ Realização de Exercícios com:
    1. For;
    2. while;
    3. do/while.
+
+
+#### _Na medida que os demais exercícios forem feitos, serão acrescentados neste repositório._

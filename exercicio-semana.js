@@ -39,22 +39,14 @@ console.log(maiorNumero(90,60,30))
 // Exemplo:
 // function contaVogais("carro") // 2 
 
-/*const input = require("readline-sync")
-
-function contarvogal () {
-    const vog = input.question ('digite um nome:  ')
-    let totalvogal = 0   
-    let string = ''
-       
-        for (let i = 0; i <= string.length -1; i++) {
-        if (string.charAt(i) == "a" || string.charAt(i) == "e" || string.charAt(i) == "i" || string.charAt(i) == "o" || string.charAt(i) == "u") 
-        {
-         totalvogal += 1;  
-        }
-    }
-    
+function contarvogal (string) {
+    let totalvogal = 0          
+     for (let i = 0; i <= string.length -1; i++) {
+      if (string.charAt(i) == "a" || string.charAt(i) == "e" || string.charAt(i) == "i" || string.charAt(i) == "o" || string.charAt(i) == "u") {
+    totalvogal += 1;  
   }
+ }    
+    return totalvogal
+}
 
-    console.log(contarvogal('oi'))
-
-    // Não deu certo.*/
+ console.log(contarvogal('Banana'))      
