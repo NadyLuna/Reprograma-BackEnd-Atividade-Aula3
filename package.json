@@ -1,0 +1,23 @@
+{
+  "name": "Reprograma-BackEnd-Atividade-Aula3",
+  "version": "1.0.0",
+  "description": "## Aula 3 - Aula 3 - Funções, escopo e loops",
+  "main": "exercicio-semana.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadyLuna/Reprograma-BackEnd-Atividade-Aula3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadyLuna/Reprograma-BackEnd-Atividade-Aula3/issues"
+  },
+  "homepage": "https://github.com/NadyLuna/Reprograma-BackEnd-Atividade-Aula3#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
