@@ -13,4 +13,3 @@ Realização de Exercícios com:
    3. do/while.
 
 
-#### _Na medida que os demais exercícios forem feitos, serão acrescentados neste repositório._
